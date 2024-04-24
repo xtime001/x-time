@@ -3,3 +3,7 @@
  <p>new blockchain, only js</p>
  <p>requires node.js to start</p>
  <p>start for test blockNew.js</p>
+# 
+# 
+#
+<p>open source will be available after work is completed</p>
